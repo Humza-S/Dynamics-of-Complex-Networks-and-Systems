@@ -1,0 +1,1 @@
+This contains work regarding degree centrality, eigenvector centrality, Katz centrality, PageRank centrality, hubs & authorities, closeness centrality, betweenness centrality, and a weighted analysis on the coappearence networks of LoTR and The Hobbit.
