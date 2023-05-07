@@ -1,0 +1,1 @@
+This contains work regarding the diffusion process, infection models such as SI and SIR, influence models such as influence cascade, indepdent cascade, percolation, and late time infection of the SIR model. 
