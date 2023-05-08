@@ -29,7 +29,9 @@ The analysis files are located in: /Analysis
 The scraper files are located in: /Scraping and Model Building
 
 Folders:
+
 /Analysis
+
 	/lemmatized_analysis.ipynb --
 				This file contains the analysis conducted on the lemmatized graph, including: visualizations, community detection, etc.
 	
@@ -37,6 +39,7 @@ Folders:
 				This file was used to compute some last minute analysis details that were useful for preparing the presentation.
 
 /Awesomeness
+
 	/openai.ipynb -- 
 				This file contains code to fine-tune the OpenAI Curie model on Eminem's lyrics.
 
@@ -44,9 +47,11 @@ Folders:
 				This file contains code related to generating synthetic shakespearean sonnets and using our fine-tuned model to generated lyrics.
 
 /Eminem Lyrics
+
 	This folder contains data regarding Eminem's lyrics including the .txt file, and the json files created and used to train the AI model.
 
 /Scraping and Model Building
+
 	/model_builder.ipynb --
 				This file contains code related to building the .gml files and also other files such as sentence_start_to_end_pos_tag.p.
 
@@ -54,6 +59,7 @@ Folders:
 				This file was used to scrape PoetryFoundation to collect our data.
 
 /Shakespeare gml Files - NETWORK FILES HERE
+
 	/sentence_start_to_end_pos_tag.p --
 				This file contains the frequency of how often shakepseare started with a trigram POS tag and ended with a trigram POS tag in the same line.
 
